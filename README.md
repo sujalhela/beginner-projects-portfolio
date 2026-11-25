@@ -12,6 +12,7 @@ This repository is a learning portfolio containing small exercises I am building
 | Sales Data Summary | CSV handling, calculations, and grouping data | `python/sales-data-summary` |
 | SQL Practice Queries | SELECT, filtering, grouping, and aggregate functions | `sql/` |
 | Beginner AI Chatbot | Python, OpenAI Responses API, and multi-turn conversation context | `python/ai-chatbot` |
+| Streamlit Chatbot UI | Browser-based chat interface using Streamlit and OpenAI API | `python/ai-chatbot/streamlit_app.py` |
 
 ## Getting started
 
