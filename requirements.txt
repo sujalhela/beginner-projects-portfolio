@@ -1,3 +1,4 @@
 # The included Python examples use only the Python standard library.
 # No third-party packages are required.
 openai>=1.66.0
+streamlit>=1.40.0
